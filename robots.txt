@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brainburst.store/sitemap.xml
